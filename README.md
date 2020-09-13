@@ -40,11 +40,11 @@ composer dump-autoload
 ~~~
 
 ~~~
-composer require mbezhanov/faker-provider-collection
+composer require mbezhanov/faker-provider-collection --dev
 ~~~
 
 ~~~
-composer require laravel/helpers
+composer require laravel/helpers --dev
 ~~~
 
 ~~~
